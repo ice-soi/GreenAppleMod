@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/door_bottom_right",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "bottom": "greenapplemod:block/green_apple_door_bottom",
+    "top": "greenapplemod:block/green_apple_door_top"
+  }
+}

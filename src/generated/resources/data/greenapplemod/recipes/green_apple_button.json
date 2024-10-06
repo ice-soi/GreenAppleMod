@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "item": "greenapplemod:green_apple_planks"
+    }
+  ],
+  "result": {
+    "item": "greenapplemod:green_apple_button"
+  }
+}

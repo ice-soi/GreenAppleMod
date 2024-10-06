@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_top",
+  "textures": {
+    "side": "greenapplemod:block/green_apple_leaves_side",
+    "top": "greenapplemod:block/green_apple_leaves_top"
+  }
+}

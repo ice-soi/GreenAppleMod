@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "greenapplemod:block/stripped_green_apple_log_top",
+    "side": "greenapplemod:block/stripped_green_apple_log"
+  }
+}

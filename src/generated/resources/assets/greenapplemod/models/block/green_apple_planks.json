@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "greenapplemod:block/green_apple_planks"
+  }
+}

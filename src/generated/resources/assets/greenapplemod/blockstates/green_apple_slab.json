@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "greenapplemod:block/green_apple_slab"
+    },
+    "type=double": {
+      "model": "greenapplemod:block/green_apple_planks"
+    },
+    "type=top": {
+      "model": "greenapplemod:block/green_apple_slab_top"
+    }
+  }
+}

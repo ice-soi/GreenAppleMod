@@ -1,0 +1,19 @@
+{
+  "block.greenapplemod.green_apple_button": "青りんごのボタン",
+  "block.greenapplemod.green_apple_door": "青りんごのドア",
+  "block.greenapplemod.green_apple_fence": "青りんごのフェンス",
+  "block.greenapplemod.green_apple_fence_gate": "青りんごのフェンスゲート",
+  "block.greenapplemod.green_apple_leaves": "青りんごの葉",
+  "block.greenapplemod.green_apple_log": "青りんごの原木",
+  "block.greenapplemod.green_apple_planks": "青りんごの板材",
+  "block.greenapplemod.green_apple_pressure_plate": "青りんごの感圧版",
+  "block.greenapplemod.green_apple_sapling": "青りんごの苗木",
+  "block.greenapplemod.green_apple_slab": "青りんごのハーフブロック",
+  "block.greenapplemod.green_apple_stairs": "青りんごの階段",
+  "block.greenapplemod.green_apple_trapdoor": "青りんごのトラップドア",
+  "block.greenapplemod.green_apple_wood": "青りんごの木",
+  "block.greenapplemod.stripped_green_apple_log": "樹皮を剥いだ青りんごの原木",
+  "block.greenapplemod.stripped_green_apple_wood": "樹皮を剥いだ青りんごの木",
+  "creativetabs.green_apple_tab": "青りんごタブ",
+  "item.greenapplemod.green_apple": "青りんご"
+}

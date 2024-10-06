@@ -1,0 +1,19 @@
+{
+  "block.greenapplemod.green_apple_button": "green_apple_button",
+  "block.greenapplemod.green_apple_door": "green_apple_door",
+  "block.greenapplemod.green_apple_fence": "green_apple_fence",
+  "block.greenapplemod.green_apple_fence_gate": "green_apple_fence_gate",
+  "block.greenapplemod.green_apple_leaves": "Green Apple Leaves",
+  "block.greenapplemod.green_apple_log": "Green Apple Log",
+  "block.greenapplemod.green_apple_planks": "green_apple_planks",
+  "block.greenapplemod.green_apple_pressure_plate": "green_apple_pressure_plate",
+  "block.greenapplemod.green_apple_sapling": "green_apple_sapling",
+  "block.greenapplemod.green_apple_slab": "green_apple_slab",
+  "block.greenapplemod.green_apple_stairs": "green_apple_stairs",
+  "block.greenapplemod.green_apple_trapdoor": "green_apple_trapdoor",
+  "block.greenapplemod.green_apple_wood": "Green Apple Wood",
+  "block.greenapplemod.stripped_green_apple_log": "Stripped Green Apple Log",
+  "block.greenapplemod.stripped_green_apple_wood": "Stripped Green Apple Wood",
+  "creativetabs.green_apple_tab": "Green apple tab",
+  "item.greenapplemod.green_apple": "Green Apple"
+}
